@@ -12,7 +12,7 @@ import sys, random
 # only hit this condition if you give an argument at runtime
 if len(sys.argv) == 2:
   print("####################################################")
-  print(f"## songboy.py: does the song shit {sys.argv[1]} times!")
+  print(f"## songboy.py: generating {sys.argv[1]} clusters!")
   print("####################################################")
 
   # "hard coded" values for the scale we're working with. Add others here as you learn them
