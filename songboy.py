@@ -1,11 +1,12 @@
 ####################################################
-## songboy.py: does the song shit boooyyyeeeeeeeeeee
+## songboy.py: generate 4-chord groupings within a key, modular for expansion
+##  for Nick to start learning python3
 ##
 ##  usage suggestion: python3 songboy.py 6
 ####################################################
 
 
-# sometimes you have to import shit so you can do shit that isn't built-in
+# sometimes you have to import items so you can do perform functionality that isn't built-in
 import sys, random
 
 # only hit this condition if you give an argument at runtime
