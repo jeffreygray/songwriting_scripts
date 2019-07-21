@@ -22,6 +22,7 @@ if len(sys.argv) == 2:
 
   # output n 4-chord sequences in this scale
   for i in range(1, (int(sys.argv[1])+1)):
+    # learn the functionality of fstrings below, google them
     #print(f"{random.randint(1,7)}")
     print(f"option {i}: {f_major_simple[random.randint(0,6)]}, {f_major_simple[random.randint(0,6)]}, {f_major_simple[random.randint(0,6)]}, {f_major_simple[random.randint(0,6)]}")
 
