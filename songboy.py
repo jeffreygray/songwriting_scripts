@@ -9,7 +9,7 @@
 # sometimes you have to import items so you can do perform functionality that isn't built-in
 import sys, random
 
-# only hit this condition if you give an argument at runtime
+# only hit this condition if you give a singular argument at runtime
 if len(sys.argv) == 2:
   print("####################################################")
   print(f"## songboy.py: generating {sys.argv[1]} clusters!")
