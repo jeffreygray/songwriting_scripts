@@ -6,7 +6,7 @@
 ####################################################
 
 
-# sometimes you have to import items so you can do perform functionality that isn't built-in
+# sometimes you have to import items so you can perform functionality that isn't built-in
 import sys, random
 
 # only hit this condition if you give a singular argument at runtime
